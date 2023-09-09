@@ -3,7 +3,7 @@
 ## I'm a Student, Developer and Swimmer!
 
 - 👨‍💻 I'm currently working on Web App project
-- 👨‍🏫 I'm currently learning [Svelte](https://svelte.dev)
+- 👨‍🏫 I'm currently learning [SvelteKit](https://kit.svelte.dev)
 - 👯‍♂️ I'm looking to collaborate with other developers
 - 🥅 Closest goals: Start develop ideas with svelte
 - 🙃 Fun fact: I'm professional swimmer
