@@ -2,10 +2,10 @@
 
 ## I'm a Student, Developer and Swimmer!
 
-- 👨‍💻 I'm currently working on Web App project
+- 👨‍💻 I'm currently working on [Rulers](https://github.com/RepoRover/Rulers-Remake) project
 - 👨‍🏫 I'm currently learning [SvelteKit](https://kit.svelte.dev)
 - 👯‍♂️ I'm looking to collaborate with other developers
-- 🥅 Closest goals: Start develop ideas with svelte
+- 🥅 Closest goals: Find full stack job
 - 🙃 Fun fact: I'm professional swimmer
 
 ### 🖥️ Languages and Tools I can work with
