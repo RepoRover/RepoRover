@@ -2,8 +2,8 @@
 
 ## I'm a Student, Developer and Swimmer!
 
-- 👨‍💻 I'm currently working on [PostmanExpress](https://github.com/QuirkoTech/PostmanExpress) project
-- 👨‍🏫 I'm currently learning [SvelteKit](https://kit.svelte.dev)
+- 👨‍💻 I'm currently having a break
+- 👨‍🏫 I'm currently learning [Rust](https://www.rust-lang.org)
 - 👯‍♂️ I'm looking to collaborate with other developers
 - 🥅 Closest goals: Find full stack job
 - 🙃 Fun fact: I'm professional swimmer
