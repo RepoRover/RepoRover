@@ -3,7 +3,7 @@
 ## I'm a Student, Developer and Swimmer!
 
 - 👨‍💻 I'm currently having a break
-- 👨‍🏫 I'm currently learning [Rust](https://www.rust-lang.org)
+- 👨‍🏫 I'm currently learning [Flutter](https://flutter.dev)
 - 👯‍♂️ I'm looking to collaborate with other developers
 - 🥅 Closest goals: Find full stack job
 - 🙃 Fun fact: I'm professional swimmer
