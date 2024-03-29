@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer and Swimmer!
 
-- 👨‍💻 I'm currently working on [this](https://github.com/RepoRover/BTCDailyBot) project
+- 👨‍💻 I'm currently working on [this](https://github.com/Restazo) project
 - 👨‍🏫 I'm currently learning [Flutter](https://flutter.dev)
 - 👯‍♂️ I'm looking to collaborate with other developers
 - 🥅 Closest goals: Find full stack job
