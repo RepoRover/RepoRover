@@ -2,8 +2,8 @@
 
 ## I'm a Student, Developer and Swimmer!
 
-- 👨‍💻 I'm currently working on [this](https://github.com/Restazo) project
-- 👨‍🏫 I'm currently learning [Flutter](https://flutter.dev)
+- 👨‍💻 I'm currently planning new project
+- 👨‍🏫 I'm currently learning taking a nap
 - 👯‍♂️ I'm looking to collaborate with other developers
 - 🥅 Closest goals: Find full stack job
 - 🙃 Fun fact: I'm professional swimmer
