@@ -2,11 +2,11 @@
 
 ## I'm a Student, Developer and Swimmer!
 
-- 👨‍💻 I'm currently planning new project
-- 👨‍🏫 I'm currently learning taking a nap
+- 👨‍💻 I'm currently gathering ideas for my next project
+- 👨‍🏫 I'm currently learning [Rust](https://www.rust-lang.org)
 - 👯‍♂️ I'm looking to collaborate with other developers
-- 🥅 Closest goals: Find full stack job
-- 🙃 Fun fact: I'm professional swimmer
+- 🥅 Closest goals: Start making projects with Rust
+- 🙃 Fun fact: in past I was professional swimmer
 
 ### 🖥️ Languages and Tools I can work with
 
