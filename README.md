@@ -53,5 +53,5 @@
 
 ![Apache](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache)
 
-![Yura Gaitrov's stats](https://github-readme-stats.vercel.app/api?username=reporover&show_icons=true&theme=transparent&border_radius=10)
+![Yura Gaitrov's stats](https://github-readme-stats.vercel.app/api?username=reporover&show_icons=true&theme=transparent&border_radius=10&show=reviews)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reporover&layout=donut&theme=transparent&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
