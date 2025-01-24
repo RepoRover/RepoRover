@@ -2,8 +2,8 @@
 
 ## I'm a Student, Developer and Swimmer!
 
-- 👨‍💻 I'm currently planning next project
-- 👨‍🏫 I'm currently learning [Rust](https://www.rust-lang.org)
+- 👨‍💻 I'm currently working on a new [Startup](https://github.com/bfloo-app)
+- 👨‍🏫 I'm currently exploring advanced features of [SvelteKit](https://svelte.dev/docs/kit/introduction)
 - 👯‍♂️ I'm looking to collaborate with other developers
 - 🥅 Closest goals: Start making projects with Rust
 - 🙃 Fun fact: in past I was professional swimmer
