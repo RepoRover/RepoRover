@@ -31,8 +31,8 @@ Schema changes are the scariest deploy most teams make. They're often reviewed a
 ### 🧰 What I build with
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=svelte,ts,tailwind,postgres,redis,docker,cloudflare,nginx,githubactions,linux&theme=dark">
-  <img alt="SvelteKit, TypeScript, Tailwind, PostgreSQL, Redis, Docker, Cloudflare, Nginx, GitHub Actions, Linux" src="https://skillicons.dev/icons?i=svelte,ts,tailwind,postgres,redis,docker,cloudflare,nginx,githubactions,linux&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=svelte%2Cts%2Ctailwind%2Cpostgres%2Credis%2Cdocker%2Ccloudflare%2Cnginx%2Cgithubactions%2Clinux&theme=dark">
+  <img alt="SvelteKit, TypeScript, Tailwind, PostgreSQL, Redis, Docker, Cloudflare, Nginx, GitHub Actions, Linux" src="https://skillicons.dev/icons?i=svelte%2Cts%2Ctailwind%2Cpostgres%2Credis%2Cdocker%2Ccloudflare%2Cnginx%2Cgithubactions%2Clinux&theme=light">
 </picture>
 
 ---
