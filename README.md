@@ -19,9 +19,13 @@ Schema changes are the scariest deploy most teams make. They're often reviewed a
 ### 🔨 Build log
 
 <!-- BFLOO-LOG:START -->
+| Last 7 days | |
+|---|---|
+| 🧱 Commits to Bfloo | **19** |
+| 🔀 Pull requests merged | **18** |
+| 🕒 Last push | 2026-10-16 |
 
-_Updating automatically. First run pending._
-
+<sub>Auto-updated 2026-10-17 from private repos. Code stays private until launch.</sub>
 <!-- BFLOO-LOG:END -->
 
 ### 🧰 What I build with
