@@ -1,57 +1,36 @@
-### Hey there, I'm Yuriy/Iurii - aka RepoRover
+## Hey, I'm RepoRover 👋
 
-## I'm a Student, Developer and Swimmer!
+Ex-professional swimmer, BEng in Information Technology (Oulu University of Applied Sciences, 2026), now building **[Bfloo](https://github.com/Bfloo-App)** full-time.
 
-- 👨‍💻 I'm currently working on a new [Startup](https://github.com/bfloo-app)
-- 👨‍🏫 I'm currently exploring advanced features of [SvelteKit](https://svelte.dev/docs/kit/introduction)
-- 👯‍♂️ I'm looking to collaborate with other developers
-- 🥅 Closest goals: Start making projects with Rust
-- 🙃 Fun fact: in past I was professional swimmer
+My bachelor's thesis was _Unified Database Management: Integrating Visual Modelling and AI Agents_. Bfloo is where that work ships.
 
-### 🌐 Languages I like working with
+> **Bfloo keeps your PostgreSQL schema in one readable file and shows every change as a picture, with its risks, before applying it safely to any of your databases.**
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust)
-![Svelte](https://img.shields.io/badge/svelte-%23301930.svg?style=for-the-badge&logo=svelte)
-![TypeScript](https://shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFF)
+Schema changes are the scariest deploy most teams make. They're often reviewed as raw SQL diffs and you only find out what broke after it runs. Bfloo makes every migration something you can _see_ and _reason about_ before it touches production.
 
-### 📚 Frameworks and libraries I like working with
+### 🛣️ Roadmap
 
-![SvelteKit](https://img.shields.io/badge/sveltekit-%23301930.svg?style=for-the-badge&logo=svelte)
-![TailwindCSS](https://shields.io/badge/tailwindcss-000?style=for-the-badge&logo=tailwindcss)
+- [ ] **Open-source CLI** · first public release, **end of November 2026**
+- [ ] **Dashboard** · visual schema history & change review for teams
+- [ ] **Website** · docs, guides, and early access
 
-### 🗂️ Databases I work with
+⭐ Follow **[@Bfloo-App](https://github.com/Bfloo-App)** to catch the CLI launch.
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=FFF)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=FFF)
+### 🔨 Build log
 
-### 🖥️ OS I work with
+<!-- BFLOO-LOG:START -->
 
-![Ubuntu](https://img.shields.io/badge/ubuntu-000?style=for-the-badge&logo=ubuntu)
-![MacOS](https://img.shields.io/badge/mac-fff?style=for-the-badge&logo=macos&logoColor=000)
-![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+_Updating automatically. First run pending._
 
-### 🕸️ Web servers I work with
+<!-- BFLOO-LOG:END -->
 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?&style=for-the-badge&logo=nginx)
+### 🧰 What I build with
 
-### 💿 Version control and CI/CD
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=svelte,ts,tailwind,postgres,redis,docker,cloudflare,nginx,githubactions,linux&theme=dark">
+  <img alt="SvelteKit, TypeScript, Tailwind, PostgreSQL, Redis, Docker, Cloudflare, Nginx, GitHub Actions, Linux" src="https://skillicons.dev/icons?i=svelte,ts,tailwind,postgres,redis,docker,cloudflare,nginx,githubactions,linux&theme=light">
+</picture>
 
-![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github)
-![GitHub Actions](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=FFF)
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=FFF)
+---
 
-### 🤖 Other tech I know
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/html5-202a3f.svg?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3)
-![Sass](https://img.shields.io/badge/sass-%23316192.svg?style=for-the-badge&logo=sass)
-
-![NodeJS](https://img.shields.io/badge/node.js-0c121d?style=for-the-badge&logo=node.js)
-
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-![Apache](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache)
-
-![Yura Gaitrov's stats](https://github-stats-extended.vercel.app/api?username=reporover&show_icons=true&theme=transparent&border_radius=10&show=reviews)
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=reporover&layout=donut&theme=transparent&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+<sub>🏊 Swimming taught me that progress is just showing up for one more lap. Same with startups.</sub>
